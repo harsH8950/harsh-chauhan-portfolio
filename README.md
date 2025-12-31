@@ -29,7 +29,8 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 
 
 ## 📸 Preview
-_Add screenshots here later_
+<img width="1093" height="587" alt="image" src="https://github.com/user-attachments/assets/f6d4b085-fb65-4c8c-a39b-ad75c13490a8" />
+
 
 ## 📬 Contact
 - **Email:** harshchauhani115@gmail.com  
